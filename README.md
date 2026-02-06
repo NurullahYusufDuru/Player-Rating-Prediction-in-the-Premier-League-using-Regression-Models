@@ -19,9 +19,9 @@ The analysis follows these steps:
 
 ## Models Used
 - Linear Regression  
-- Regularized regression models (e.g., Ridge / Lasso, if applicable)
+- Logistic Regression
 
-The models are compared to assess how well linear relationships explain player performance.
+The models are compared to assess how well explain player performance.
 
 ## Evaluation
 Regression performance is evaluated using:
